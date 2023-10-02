@@ -1,6 +1,11 @@
 # BurntChicken
 List all incomplete homework to see who is on pace for 150% completion
 
+## Usage
+
+1. Install userscript
+2. Refresh the scoreboard
+
 ## Results
 
 Is it possible to submit 3 homework in 4 days?
